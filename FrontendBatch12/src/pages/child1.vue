@@ -1,0 +1,3 @@
+<template>
+  <h2>Child 1</h2>
+</template>
